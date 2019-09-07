@@ -8,5 +8,7 @@ Arquetipo Maven para crear un proyecto SpringBoot integrado con Vaadin y con dat
 3. Maven (Si no usa Netbeans 8.2)
 4. Conexion a Internet (Para acceder a MySql en AWS)
 
-5. Nivel de Java
+5. Nivel de Java básico - Intermedio.
+
+6. Incluye SQL para trabajar la Base de Datos Local.
 
